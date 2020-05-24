@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<title>Galeria de Fotos / K-Mix </title>
+	</head>
+
+	<body>	
+	<body bgcolor="FEDEF8">
+	<img src="LogoK-Mix.png" width="20%">
+	</br>
+
+	<hr align= "center" size="10" width="99%" 
+
+color="pink" noshade>	
+	<hr align= "center" size="10" width="99%" 
+
+color="pink" noshade>
+	<hr align= "center" size="10" width="99%" 
+
+color="pink" noshade>
+		
+	<img src="BTS.png">
+	<div class="slider">
+	<li><img src="BTS.jpg" alt=" "></li>	
+	<li><img src="RM.jpg" alt=" "></li>
+	<li><img src="Jin.jpg" alt=" "></li>
+	<li><img src="Suga.jpg" alt=" "></li>
+	<li><img src="J-Hope.jpg" alt=" "></li>
+	<li><img src="Jimin.jpg" alt=" "></li>
+	<li><img src="V.jpg" alt=" "></li>
+	<li><img src="Jungkook.jpg" alt=" "></li>
+	</div>
+	</br></br></br>	
+
+	<img src="BLACKPINK.png">
+	
+	</br></br></br>
+
+	<img src="TWICE.png">
+	
+	</br></br></br>
+
+	<img src="EXO.png">
+	
+	</br></br></br>
+
+	<img src="Red Velvet.png">
+	
+	</br></br></br>
+
+	<img src="MOMOLAND.png">
+	
+	</br></br></br>
+
+	<img src="TXT.png">
+	
+	</br></br></br>
+
+	<img src="Itzy.png">
+	
+	</br></br></br>
+
+	<img src="Somi.png">
+	
+	</br></br></br>
+	</body>
+<html>
